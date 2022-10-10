@@ -1,4 +1,4 @@
-import { useContext, createContext } from "react";
+import {createContext } from "react";
 import MoodEmojiList from "./MoodEmojiList";
 
 const moods = {
